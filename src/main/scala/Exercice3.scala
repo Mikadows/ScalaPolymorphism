@@ -1,0 +1,2 @@
+object Exercice3 {
+}
